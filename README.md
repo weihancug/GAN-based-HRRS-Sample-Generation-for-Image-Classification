@@ -9,4 +9,10 @@ Cuda version: 9.1
 
 Teminal command:
 
-The dataset is UCM, NWPU-RESISC45.
+The dataset is UCM, NWPU-RESISC45:
+(1) UC Merced dataset 
+![UC Merced dataset](./UCM.png)
+
+
+(2) NWPU-RESISC45 dataset
+![NWPU-RESISC](./NUPW.png)
